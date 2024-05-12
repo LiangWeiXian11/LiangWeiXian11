@@ -1,13 +1,16 @@
 ### Hi there 👋, I am Weixian Liang. 
 I am 
-I am currently working on my master degree, Urban Spatial Science in UCL, and interesting in future city development like smart cities, data-driven decision making and so on. 
-I will use Github to shore and display my learning notes, assignments, and projects.
-There are some useful links:
-- ![Smart cities (CASA0008)](https://github.com/LiangWeiXian11/SmartCity_CASA0008)
-- Quantitative method (CASA0007): 
+I am currently working on my master degree, Urban Spatial Science in UCL, and interesting in future city development like smart cities, data-driven decision making and so on. :blush:
+
+
+I will use Github to shore and display my learning notes, assignments, and projects. There are some useful links:
+- :city_sunset: [Smart cities (CASA0008)](https://github.com/LiangWeiXian11/SmartCity_CASA0008)
+- :pencil: [Quantitative method (CASA0007)](https://github.com/LiangWeiXian11/CO2_emissions_CASA0007) 
 - (more contents are coming!)
+- :blush:
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiangWeiXian&layout=compact&theme=tokyonight)
 
 
 
