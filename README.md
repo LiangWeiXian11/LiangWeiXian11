@@ -10,8 +10,11 @@ I will use Github to shore and display my learning notes, assignments, and proje
 - :blush:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiangWeiXian&layout=compact&theme=tokyonight)
 
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiangWeiXian&layout=compact&theme=tokyonight)
+-->
 
 
 
