@@ -8,7 +8,7 @@ I will use Github to shore and display my learning notes, assignments, and proje
 - (more contents are coming!)
 - :blush:
 
-
+Here is my [linkedin](https://www.linkedin.com/in/%E4%BC%9F%E6%B6%8E-%E6%A2%81-3235b42a7/). Please feel free to connect and talk with me to know more about my experience.
 
 
 <!--
