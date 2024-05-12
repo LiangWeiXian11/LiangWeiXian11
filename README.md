@@ -3,7 +3,7 @@ I am
 I am currently working on my master degree, Urban Spatial Science in UCL, and interesting in future city development like smart cities, data-driven decision making and so on. 
 I will use Github to shore and display my learning notes, assignments, and projects.
 There are some useful links:
-- Smart cities (CASA0008): 
+- Smart cities (CASA0008): https://github.com/LiangWeiXian11/SmartCity_CASA0008
 - Quantitative method (CASA0007): 
 - (more contents are coming!)
 
