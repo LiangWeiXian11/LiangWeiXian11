@@ -4,7 +4,8 @@ I am currently working on my master degree, Urban Spatial Science in University 
 
 I will use Github to shore and display my learning notes, assignments, and projects. There are some useful links:
 - :city_sunset: [Smart cities (CASA0008)](https://github.com/LiangWeiXian11/SmartCity_CASA0008)
-- :pencil: [Quantitative method (CASA0007)](https://github.com/LiangWeiXian11/CO2_emissions_CASA0007) 
+- :pencil: [Quantitative method (CASA0007)](https://github.com/LiangWeiXian11/CO2_emissions_CASA0007)
+- [YieldForecast_CASA00025](https://github.com/LiangWeiXian11/YieldForecast_CASA00025)
 - (more contents are coming!)
 - :blush:
 
