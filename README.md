@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Weixian Liang. 
 
-I am currently working on my master degree, Urban Spatial Science in University College of London <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="17"/>. I have a Bachelor of Science degree in Geographic Information Science from South China Agricultural University and am interested in smart cities, data-driven decision making, and other future urban developments.:blush:
-
+I am currently working on my master degree, Urban Spatial Science in University College of London <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="17"/>. I have a Bachelor of Science degree in Geographic Information Science from South China Agricultural University and am interested in smart cities, data-driven decision making, and other future urban developments. 😀
 I will use Github to shore and display my learning notes, assignments, and projects. There are some useful links:
 - :city_sunset: [Smart cities (CASA0008)](https://github.com/LiangWeiXian11/SmartCity_CASA0008)
 - :pencil: [Quantitative method (CASA0007)](https://github.com/LiangWeiXian11/CO2_emissions_CASA0007)
