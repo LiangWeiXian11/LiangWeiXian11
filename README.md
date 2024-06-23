@@ -9,7 +9,7 @@ I will use Github to shore and display my learning notes, assignments, and proje
 - (more contents are coming!)
 - :blush:
 
-Here is my [linkedin](www.linkedin.com/in/weixian-liang/). Please feel free to connect and talk with me to know more about my experience.
+Here is my [linkedin](https://www.linkedin.com/in/weixian-liang/). Please feel free to connect and talk with me to know more about my experience.
 
 
 <!--
