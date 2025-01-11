@@ -1,8 +1,9 @@
 ### Hi there 👋, I am Weixian Liang. 
 
 I am currently looking for job opportunities as a Product Manager, Project Manager, Map Engineer, Data Analyst and so on. 
-I have a mester degree, Urban Spatial Science in University College of London <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="17"/>, and a Bachelor of Science degree in Geographic Information Science (GIS) from South China Agricultural University. 
+I have a mester degree, Urban Spatial Science in University College of London <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="17"/>, and a Bachelor of Science degree in Geographic Information Science (GIS) from South China Agricultural University <img src="https://img0.baidu.com/it/u=2157749183,1341717144&fm=253&fmt=auto&app=138&f=JPEG?w=490&h=475" width="17"/>.
 I am also interested in discussing smart cities, data-driven decision making, and other topics for future urban development. 😀
+
 
 I will use Github to shore and display my learning notes, assignments, and projects. There are some useful links:
 - :city_sunset: [Smart cities (CASA0008)](https://github.com/LiangWeiXian11/SmartCity_CASA0008)
